@@ -1,0 +1,46 @@
+name: project_mobile
+description: Exhibition Booth Management App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.1
+  cloud_firestore: ^5.6.5
+  firebase_storage: ^12.4.4
+
+  # Image Picker
+  image_picker: ^1.1.2
+
+  # Image Caching (for better performance + PDF requirement)
+  cached_network_image: ^3.4.1
+ #Routing
+  go_router: ^14.0.0
+
+  # Local Storage / Caching (PDF requirement)
+  shared_preferences: ^2.5.3
+
+  # UI
+  google_fonts: ^6.2.1
+
+  # State Management
+  provider: ^6.1.2
+
+  # Utilities
+  flutter_secure_storage: ^9.2.4
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true  

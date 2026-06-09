@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862776449144",
+    "project_id": "booknmeet-2f9d3",
+    "storage_bucket": "booknmeet-2f9d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862776449144:android:19b39b764bd3e7b709758d",
+        "android_client_info": {
+          "package_name": "com.example.project_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRROM_27iNJmbdV2yy10JI8128Ke0cwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862776449144:android:6d4fdf60b6451c7609758d",
+        "android_client_info": {
+          "package_name": "com.example.testingbooknmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRROM_27iNJmbdV2yy10JI8128Ke0cwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
