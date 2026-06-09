@@ -179,4 +179,4 @@ flutter run
 | **Course** | ISB26603 Mobile and Ubiquitous Computing |
 | **Institution** | Malaysian Institute of Information Technology (MIIT), UniKL |
 | **Lecturer** | Dr. Chen Xinyuan |
-| **Semester** | October 2025 |
+| **Semester** | March 2026 |
