@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBmkxiSgQ2z-5ZPEv2aqbc-2WNFUNTdcPg',
+    apiKey: '',
     appId: '1:862776449144:web:a95fee2c2239283e09758d',
     messagingSenderId: '862776449144',
     projectId: 'booknmeet-2f9d3',
@@ -60,7 +60,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfRROM_27iNJmbdV2yy10JI8128Ke0cwI',
+    apiKey: '',
     appId: '1:862776449144:android:19b39b764bd3e7b709758d',
     messagingSenderId: '862776449144',
     projectId: 'booknmeet-2f9d3',
